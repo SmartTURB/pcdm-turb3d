@@ -1,5 +1,7 @@
 # pcdm-turb3d
 
+[![DOI](https://zenodo.org/badge/1218046549.svg)](https://doi.org/10.5281/zenodo.22151630)
+
 This is the codebase for [A Generative Diffusion Framework for Physically Consistent 3D Turbulence](https://arxiv.org/abs/2603.12834).
 
 This repository builds upon [SmartTURB/diffusion-lagr](https://github.com/SmartTURB/diffusion-lagr) and extends it to the generation of 3D turbulent velocity fields with physics-constrained diffusion models.
